@@ -2,7 +2,7 @@ package array
 /**
  * Two Sum Problem Implementation
  *
- * @see <a href="file:../problems/TwoSum.md">Two Sum Problem Guide</a>
+ * @see <a href="https://github.com/Goutam-Kumar/NeetCode-kotlin-PracticeSession/blob/master/src/array/problems/TwoSum.md">Two Sum Problem Guide</a>
  * @author Goutam Kumar &lt;goutam.k0711@gmail.com&gt;
  * @version 1.0
  */
